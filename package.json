@@ -1,6 +1,6 @@
 {
   "name": "qr-pure-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "QR Code generator (bitmap, svg, pdf, eps)",
   "homepage": "https://github.com/stijnstroeve/qr-pure-image",
   "keywords": [
