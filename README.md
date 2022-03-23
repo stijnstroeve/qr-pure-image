@@ -30,3 +30,6 @@ const qr_svg = qr.svg('I love QR!');
     - `ec_level` - Error correction level. One of L, M, Q, H. Default M.
     - `size` - Size of the image
     - `margin` - White space around the QR image
+
+### Examples
+More examples can be [found here](https://github.com/stijnstroeve/qr-pure-image/blob/HEAD/examples).
