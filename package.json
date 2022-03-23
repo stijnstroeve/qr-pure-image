@@ -1,0 +1,33 @@
+{
+  "name": "qr-pure-image",
+  "version": "1.0.0",
+  "description": "QR Code generator (bitmap, svg, pdf, eps)",
+  "homepage": "https://github.com/stijnstroeve/qr-pure-image",
+  "keywords": [
+    "qrcode",
+    "qr code",
+    "js qr code",
+    "pure js qr",
+    "qr",
+    "bitmap",
+    "svg",
+    "image",
+    "pdf qr",
+    "eps"
+  ],
+  "author": {
+    "name": "Stijn Stroeve",
+    "url": "https://github.com/stijnstroeve"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stijnstroeve/qr-pure-image.git"
+  },
+  "bugs": "https://github.com/stijnstroeve/qr-pure-image/issues",
+  "main": "./lib/qr.js",
+  "files": [
+    "lib",
+    "LICENSE"
+  ]
+}

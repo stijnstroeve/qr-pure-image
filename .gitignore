@@ -1,0 +1,4 @@
+/qr-image-*.tgz
+.*.swp
+/node_modules
+/.idea
