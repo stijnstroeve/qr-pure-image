@@ -28,6 +28,7 @@
   "main": "./lib/qr.js",
   "files": [
     "lib",
+    "index.d.ts",
     "LICENSE"
   ]
 }
